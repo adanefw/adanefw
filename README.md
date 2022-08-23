@@ -1,4 +1,10 @@
-Hi, I’m Adane F Wogu and I am a Faculty Research Associate in the Department of Biostatistics & Informatics, Colorado School of Public Health. I’m interested in learning new statistical packages which are useful in different areas of public health and medical research as well as clinical trials. My research interests are competing risks/survival analysis, cohort, case-cohort and other observational studies. You can reach me @adane_tweets on Twitter. 
+Adane F Wogu •
+Research Associate •
+Center for Innovative Design & Analysis •
+Department of Biostatistics & Informatics •
+Colorado School of Public Health • 
+University of Colorado Anschutz Medical Campus • 
+Twitter: @adane_tweets  
 
 <!---
 adanefw/adanefw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
